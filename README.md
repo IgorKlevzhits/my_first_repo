@@ -8,3 +8,6 @@
 
 Это яблоко
 ![Apple](apple.jpg)
+
+Тут будет картинка апельсина
+![Orange](orange.jpg)
